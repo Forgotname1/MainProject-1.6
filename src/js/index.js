@@ -8,4 +8,4 @@ import '../js/swiper-3';
 import '../js/main-menu__modal';
 import '../js/feedback-modal';
 import '../js/call-modal';
-console.log('Works!');
+
